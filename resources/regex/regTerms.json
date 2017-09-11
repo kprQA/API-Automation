@@ -1,0 +1,22 @@
+{
+  "apiName": "terms",
+  "regexPatterns": [],
+  "arrayKeys": "null",
+  "keys": [
+    {
+      "keyName": "code"
+    },
+    {
+      "keyName": "description"
+    },
+    {
+      "keyName": "degreeDesc"
+    },
+    {
+      "keyName": "end_date"
+    },
+    {
+      "keyName": "start_date"
+    }
+  ]
+}

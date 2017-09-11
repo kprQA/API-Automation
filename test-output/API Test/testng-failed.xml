@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [API Test]">
+  <test name="Initialization(failed)">
+    <classes>
+      <class name="API.com.project.api.FacultyBioTest">
+        <methods>
+          <include name="T4_test_OffSet_And_Max_When_Set_To_Same_Value_Recors_Are_Displayed_While_Using_Pagesize"/>
+          <include name="setUp"/>
+          <include name="writeAll"/>
+          <include name="T7_test_No_Of_Records_If_Offset_And_Max_Are_Same"/>
+          <include name="T6_test_Check_Records_In_Range"/>
+          <include name="T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0"/>
+          <include name="T2_test_All_Headers_Are_Present_In_The_Response"/>
+          <include name="T3_test_More_Than_Records_Are_Returned_From_The_Call"/>
+          <include name="T1_test_Http_Status_Code_For_The_Programs_API"/>
+          <include name="T5_test_Check_A_SpecificRecord"/>
+        </methods>
+      </class> <!-- API.com.project.api.FacultyBioTest -->
+      <class name="API.com.project.api.CoursesTest">
+        <methods>
+          <include name="writeAll"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- API.com.project.api.CoursesTest -->
+      <class name="API.com.project.api.ConcentrationsTest">
+        <methods>
+          <include name="writeAll"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- API.com.project.api.ConcentrationsTest -->
+      <class name="API.com.project.api.ProgramsTest">
+        <methods>
+          <include name="writeAll"/>
+          <include name="tearDown"/>
+          <include name="T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0"/>
+          <include name="init"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- API.com.project.api.ProgramsTest -->
+    </classes>
+  </test> <!-- Initialization(failed) -->
+</suite> <!-- Failed suite [API Test] -->

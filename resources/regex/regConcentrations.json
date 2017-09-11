@@ -1,0 +1,68 @@
+{
+  "apiName": "concentration",
+  "regexPatterns": [
+    {
+      "collegeDesc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "degree_code": "[A-Z]+",
+      "college": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "program_name": "[A-Z|a-z|-]+",
+      "college_desc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "program_desc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "degreeIpedCode": "[0-9]+",
+      "levelCode": "[A-Z]+",
+      "majorDesc": "[A-Z|a-z| ]+",
+      "programDesc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "programName": "[A-Z|a-z|-]+",
+      "programStatusDesc123": "(Active|Future)+"
+    }
+  ],
+  "arrayKeys": {
+    "keyName": "concentration",
+    "objects": [
+      {
+        "keyName": "code"
+      },
+      {
+        "keyName": "desc"
+      }
+    ]
+  },
+  "keys": [
+    {
+      "keyName": "degree_desc"
+    },
+    {
+      "keyName": "collegeDesc"
+    },
+    {
+      "keyName": "degree_code"
+    },
+    {
+      "keyName": "college"
+    },
+    {
+      "keyName": "program_name"
+    },
+    {
+      "keyName": "college_desc"
+    },
+    {
+      "keyName": "program_desc"
+    },
+    {
+      "keyName": "degreeIpedCode"
+    },
+    {
+      "keyName": "desc"
+    },
+    {
+      "keyName": "code"
+    },
+    {
+      "keyName": "college_code"
+    },
+    {
+      "keyName": "concentration"
+    }
+  ]
+}

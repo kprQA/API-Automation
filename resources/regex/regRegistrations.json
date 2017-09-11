@@ -1,0 +1,22 @@
+{
+  "apiName": "registrations",
+  "regexPatterns": [],
+  "arrayKeys": "null",
+  "keys": [
+    {
+      "keyName": "crn"
+    },
+    {
+      "keyName": "term_code"
+    },
+    {
+      "keyName": "status"
+    },
+    {
+      "keyName": "credits"
+    },
+    {
+      "keyName": "registration_date"
+    }
+  ]
+}

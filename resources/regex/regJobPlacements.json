@@ -1,0 +1,31 @@
+{
+  "apiName": "JobPlacements",
+  "regexPatterns": [],
+  "arrayKeys": "null",
+  "keys": [
+    {
+      "keyName": "datePlaced"
+    },
+    {
+      "keyName": "endDate"
+    },
+    {
+      "keyName": "jobID"
+    },
+    {
+      "keyName": "nuid"
+    },
+    {
+      "keyName": "placeLength"
+    },
+    {
+      "keyName": "placeTerm"
+    },
+    {
+      "keyName": "placeYear"
+    },
+    {
+      "keyName": "startDate"
+    }
+  ]
+}

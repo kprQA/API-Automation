@@ -1,0 +1,83 @@
+{
+  "apiName": "courses",
+  "regexPatterns": [],
+  "arrayKeys": {
+    "keyName": "level",
+    "keys":[
+      {
+        "keyName": "level"
+      },
+     
+      {
+        "keyName": "level_code"
+      }
+    ]
+      
+  },
+  
+  
+  
+  "keys":[
+  {
+  "keyName": "low_credits"
+  },
+  
+  {
+  "keyName": "college"
+  },
+  
+  {
+  "keyName": "course_number"
+  },
+  
+  {
+  "keyName": "description"
+  },
+  
+  {
+  "keyName": "effective_term_code"
+  }
+  
+  ]
+  },
+  "keyName":"restrictions",
+    "keys":[
+    {
+    "keyName":"restrictions_text"
+    },
+    
+    {
+    "keyName": "restrictions_formula"
+    },
+    
+    {
+     "keyName": "co_requisites_text"
+     },
+     
+     {
+     "keyName": "pre_requisites_text"
+     },
+     
+     {
+     "keyName": "pre_requisites_formula"
+     },
+     
+     {
+     "keyName": "level_restriction_text"
+     },
+     
+     {
+     "keyName": "level_restriction_formula"
+     }  
+    ]
+    },
+  
+  "keys": [
+    {
+      "keyName": "subject_code"
+    },
+    {
+      "keyName": "title"
+    }  
+  ]
+}

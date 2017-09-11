@@ -1,0 +1,50 @@
+{
+  "apiName": "programs",
+  "regexPatterns": [
+    {
+      "collegeDesc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "degreeCode": "[A-Z]+",
+      "degreeDesc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "degreeIpedCode": "[0-9]+",
+      "degreeIpedCodeDesc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "levelCode": "[A-Z]+",
+      "majorDesc": "[A-Z|a-z| ]+",
+      "programDesc": "[A-Z|a-z|0-9|&|-| |,|- |.|/]*.",
+      "programName": "[A-Z|a-z|-]+",
+      "programStatusDesc": "(Active|Future)+"
+    }
+  ],
+  "arrayKeys": "null",
+  "keys": [
+    {
+      "keyName": "collegeDesc"
+    },
+    {
+      "keyName": "degreeCode"
+    },
+    {
+      "keyName": "degreeDesc"
+    },
+    {
+      "keyName": "degreeIpedCode"
+    },
+    {
+      "keyName": "degreeIpedCodeDesc"
+    },
+    {
+      "keyName": "levelCode"
+    },
+    {
+      "keyName": "majorDesc"
+    },
+    {
+      "keyName": "programDesc"
+    },
+    {
+      "keyName": "programName"
+    },
+    {
+      "keyName": "programStatusDesc"
+    }
+  ]
+}

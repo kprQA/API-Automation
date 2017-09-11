@@ -1,0 +1,97 @@
+{
+  "apiName": "faculty",
+  "regexPatterns": [],
+  "arrayKeys": null,
+  "keys": [
+    {
+      "keyName": "building"
+    },
+    {
+      "keyName": "collegeaffiliation"
+    },
+    {
+      "keyName": "degree"
+    },
+    {
+      "keyName": "degreeinstitute"
+    },
+    {
+      "keyName": "degreeyear"
+    },
+    {
+      "keyName": "department"
+    },
+    {
+      "keyName": "division"
+    },
+    {
+      "keyName": "email"
+    },
+    {
+      "keyName": "fax"
+    },
+    {
+      "keyName": "firstname"
+    },
+    {
+      "keyName": "ft_pt_ind"
+    },
+    {
+      "keyName": "lastname"
+    },
+    {
+      "keyName": "maildrop"
+    },
+    {
+      "keyName": "nuid"
+    },
+    {
+      "keyName": "officecity"
+    },
+    {
+      "keyName": "officestate"
+    },
+    {
+      "keyName": "officezip"
+    },
+    {
+      "keyName": "phone"
+    },
+    {
+      "keyName": "prefix"
+    },
+    {
+      "keyName": "rank"
+    },
+    {
+      "keyName": "room"
+    },
+    {
+      "keyName": "secondarycolleges"
+    },
+    {
+      "keyName": "secondarydept"
+    },
+    {
+      "keyName": "suffix"
+    },
+    {
+      "keyName": "tenurestatus"
+    },
+    {
+      "keyName": "title"
+    },
+    {
+      "keyName": "division"
+    },
+    {
+      "keyName": "collegeaffiliation"
+    },
+    {
+      "keyName": "department"
+    },
+       {
+      "keyName": "positions"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "apiName": "CourseRegistration",
+  "regexPatterns": [],
+  "arrayKeys": {
+    "keyName": "course_registrations",
+    "objects": [
+      {
+        "keyName": "status"
+      },
+      {
+        "keyName": "credits"
+      },
+      {
+        "keyName": "registration_date"
+      },
+      {
+        "keyName": "user"
+      },
+      {
+        "keyName": "nu_id"
+      },
+      {
+        "keyName": "last_name"
+      },
+      {
+        "keyName": "middle_initial"
+      },
+      {
+        "keyName": "first_name"
+      }    
+    ]  
+  },
+  "arrayKeys1":{
+  "keyName": "email_addresses",
+  "objects":[
+     {
+     "keyName": "preferred"
+      },
+       {
+     "keyName": "email"
+      }
+      ]
+      },
+      
+      
+      "arrayKeys2":{
+  "keyName": "instructors",
+  "objects":[
+     {
+     "keyName": "primary"
+      }
+      ]},     
+      
+  "keys": [
+    {
+      "keyName": "available_seat_count"
+    },
+    {
+      "keyName": "campus"
+    },
+    {
+      "keyName": "course_number"
+    },
+    {
+      "keyName": "crn"
+    },
+    {
+      "keyName": "effective_term_code"
+    },
+    {
+      "keyName": "end_date"
+    },
+    {
+      "keyName": "enrollment_cutoff_date"
+    },
+    {
+      "keyName": "instructional_method"
+    },
+    {
+      "keyName": "section_number"
+    },
+    {
+      "keyName": "start_date"
+    },
+     {
+      "keyName": "status"
+    },
+    {
+      "keyName": "subject_code"
+    },
+    {
+      "keyName": "term_code"
+    } 
+    ]}

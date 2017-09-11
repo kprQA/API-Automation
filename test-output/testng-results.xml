@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37411" started-at="2017-09-10T19:41:05Z" finished-at="2017-09-10T19:41:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37411" started-at="2017-09-10T19:41:05Z" finished-at="2017-09-10T19:41:43Z">
+      <class name="API.com.project.api.ECX.ECX_CoursesTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="init" is-config="true" duration-ms="235" started-at="2017-09-10T15:41:05Z" finished-at="2017-09-10T15:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="T1_test_Http_Status_Code_For_The_Programs_API()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T1_test_Http_Status_Code_For_The_Programs_API" duration-ms="11525" started-at="2017-09-10T15:41:05Z" finished-at="2017-09-10T15:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T1_test_Http_Status_Code_For_The_Programs_API -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="setUp" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:05Z" finished-at="2017-09-10T15:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:17Z" finished-at="2017-09-10T15:41:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T1_test_Http_Status_Code_For_The_Programs_API status=SUCCESS method=ECX_CoursesTest.T1_test_Http_Status_Code_For_The_Programs_API()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="T2_test_All_Headers_Are_Present_In_The_Response()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T2_test_All_Headers_Are_Present_In_The_Response" duration-ms="15" started-at="2017-09-10T15:41:17Z" finished-at="2017-09-10T15:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T2_test_All_Headers_Are_Present_In_The_Response -->
+        <test-method status="PASS" signature="T4_test_OffSet_And_Max_When_Set_To_Same_Value_Recors_Are_Displayed_While_Using_Pagesize()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T4_test_OffSet_And_Max_When_Set_To_Same_Value_Recors_Are_Displayed_While_Using_Pagesize" duration-ms="6957" started-at="2017-09-10T15:41:17Z" finished-at="2017-09-10T15:41:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T4_test_OffSet_And_Max_When_Set_To_Same_Value_Recors_Are_Displayed_While_Using_Pagesize -->
+        <test-method status="PASS" signature="T3_test_More_Than_Records_Are_Returned_From_The_Call()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T3_test_More_Than_Records_Are_Returned_From_The_Call" duration-ms="0" started-at="2017-09-10T15:41:17Z" finished-at="2017-09-10T15:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T3_test_More_Than_Records_Are_Returned_From_The_Call -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:17Z" finished-at="2017-09-10T15:41:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T2_test_All_Headers_Are_Present_In_The_Response status=SUCCESS method=ECX_CoursesTest.T2_test_All_Headers_Are_Present_In_The_Response()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:17Z" finished-at="2017-09-10T15:41:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T3_test_More_Than_Records_Are_Returned_From_The_Call status=SUCCESS method=ECX_CoursesTest.T3_test_More_Than_Records_Are_Returned_From_The_Call()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:24Z" finished-at="2017-09-10T15:41:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T4_test_OffSet_And_Max_When_Set_To_Same_Value_Recors_Are_Displayed_While_Using_Pagesize status=SUCCESS method=ECX_CoursesTest.T4_test_OffSet_And_Max_When_Set_To_Same_Value_Recors_Are_Displayed_While_Using_Pagesize()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="T5_test_Check_A_SpecificRecord()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T5_test_Check_A_SpecificRecord" duration-ms="5326" started-at="2017-09-10T15:41:24Z" finished-at="2017-09-10T15:41:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T5_test_Check_A_SpecificRecord -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:29Z" finished-at="2017-09-10T15:41:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T5_test_Check_A_SpecificRecord status=SUCCESS method=ECX_CoursesTest.T5_test_Check_A_SpecificRecord()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="T6_test_Check_Records_In_Range()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T6_test_Check_Records_In_Range" duration-ms="6845" started-at="2017-09-10T15:41:29Z" finished-at="2017-09-10T15:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T6_test_Check_Records_In_Range -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="3" started-at="2017-09-10T15:41:36Z" finished-at="2017-09-10T15:41:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T6_test_Check_Records_In_Range status=SUCCESS method=ECX_CoursesTest.T6_test_Check_Records_In_Range()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="T7_test_No_Of_Records_If_Offset_And_Max_Are_Same()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T7_test_No_Of_Records_If_Offset_And_Max_Are_Same" duration-ms="1802" started-at="2017-09-10T15:41:36Z" finished-at="2017-09-10T15:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T7_test_No_Of_Records_If_Offset_And_Max_Are_Same -->
+        <test-method status="PASS" signature="T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0" duration-ms="4916" started-at="2017-09-10T15:41:38Z" finished-at="2017-09-10T15:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0 -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:38Z" finished-at="2017-09-10T15:41:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T7_test_No_Of_Records_If_Offset_And_Max_Are_Same status=SUCCESS method=ECX_CoursesTest.T7_test_No_Of_Records_If_Offset_And_Max_Are_Same()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="writeAll(org.testng.ITestResult)[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="writeAll" is-config="true" duration-ms="0" started-at="2017-09-10T15:41:43Z" finished-at="2017-09-10T15:41:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0 status=SUCCESS method=ECX_CoursesTest.T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeAll -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:API.com.project.api.ECX.ECX_CoursesTest@7823a2f9]" name="tearDown" is-config="true" duration-ms="567" started-at="2017-09-10T15:41:43Z" finished-at="2017-09-10T15:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- API.com.project.api.ECX.ECX_CoursesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

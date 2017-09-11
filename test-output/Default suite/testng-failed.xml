@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="API.com.project.api.SAIL.SAIL_JobPlacements">
+        <methods>
+          <include name="T8_test_No_Of_Records_If_OfSet_IS_SET_TO_0"/>
+          <include name="writeAll"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="init"/>
+          <include name="T4_test_OffSet_And_Max_When_Set_To_Some_Value_Records_Are_Displayed_While_Using_Pagesize"/>
+          <include name="T7_test_No_Of_Records_If_Offset_And_Max_Are_Same"/>
+        </methods>
+      </class> <!-- API.com.project.api.SAIL.SAIL_JobPlacements -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
